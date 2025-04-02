@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web developpement.
 - 🌱 I’m currently learning being a full-stack developper.
 - 💞️ I’m looking to collaborate on websites projects.
+- 📚 I want to learn : Bootstrap, Tailwind, React/React-Native, Angular and Laravel.
 - 📫 How to reach me www.linkedin.com/in/thomas-thony
 - 😄 Pronouns: He
 <!---
