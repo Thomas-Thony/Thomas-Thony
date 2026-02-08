@@ -1,11 +1,41 @@
-- 👋 Hi, I’m @Thomas-Thony
-- 👀 I’m interested in Web developpement.
-- 🌱 I’m currently learning being a full-stack developper.
-- 💞️ I’m looking to collaborate on websites projects.
-- 📚 I want to learn : Bootstrap, Tailwind, React/React-Native, Angular, MERN stack, Drupal and Laravel.
-- 📫 How to reach me www.linkedin.com/in/thomas-thony
-- 😄 Pronouns: He
-<!---
-Thomas-Thony/Thomas-Thony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Thomas THONY and I'm a future full-stack developper.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm want to learn  Bootstrap, Tailwind, React/React-Native, Angular, MERN stack, Drupal and Laravel. <br>🎯 Goals: Create website from 0 with strong cybersecurity.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
