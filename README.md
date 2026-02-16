@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm want to learn  Bootstrap, Tailwind, React/React-Native, Angular, MERN stack, Drupal and Laravel. <br>🎯 Goals: Create website from 0 with strong cybersecurity.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm want to learn  Bootstrap, Tailwind, React/React-Native, Angular, MERN stack, Drupal and Laravel. <br>🎯 Goals: Create website from 0 with strong cybersecurity notions.</p>
 
 ###
 
