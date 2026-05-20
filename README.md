@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm want to learn  Bootstrap, Tailwind, React/React-Native, Angular, MERN stack, Drupal and Laravel. <br>🎯 Goals: Create website from 0 with strong cybersecurity notions.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm want to learn  Bootstrap, Tailwind, Angular, MERN stack and Drupal. <br>🎯 Goals: Create website from 0 with strong cybersecurity notions.</p>
 
 ###
 
@@ -41,3 +41,17 @@
 </div>
 
 ###
+
+<h2 align="left">Currently, i am practicing</h2>
+
+###
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
